@@ -1,5 +1,10 @@
 
 p, h2
 {
-  color: blue;
+  color: blue; /*Ces éléments seront en bleu*/
+}
+
+#introduction
+{
+  color: red;
 }
